@@ -1833,7 +1833,7 @@ Or better - use proper time intelligence!
 
 ## 📚 Additional Resources
 
-- **Microsoft Learn:** [Power BI Documentation](https://docs.microsoft.com/power-bi/)
+- **Microsoft Learn:** [Power BI Documentation](https://learn.microsoft.com/power-bi/)
 - **SQLBI:** Advanced DAX patterns - [sqlbi.com](https://sqlbi.com)
 - **DAX Guide:** Function reference - [dax.guide](https://dax.guide)
 - **Power BI Community:** Forums and discussions - [community.powerbi.com](https://community.powerbi.com)
