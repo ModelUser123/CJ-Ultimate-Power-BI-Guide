@@ -125,7 +125,7 @@ Before diving in, let's define the key terms you'll encounter. Bookmark this sec
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Step 1: Download Power BI Desktop
 
@@ -968,7 +968,7 @@ Data modeling is how you structure your data for optimal performance and analysi
 
 ---
 
-## 🔗 Relationships
+## Relationships
 
 Relationships connect your tables so data flows correctly in your reports.
 
